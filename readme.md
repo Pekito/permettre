@@ -8,7 +8,6 @@
 - [Uso](#uso)
 - [Modelo de Domínio](#modelo-de-domínio)
 - [Modos de Permissão](#modos-de-permissão)
-- [Licença](#licença)
 
 ## Introdução
 Permettre é um projeto de estudo que demonstra a aplicação dos princípios da modelagem tática de Domain Driven Design no contexto de uma API de Autorização. O projeto tem como objetivo demonstrar como projetar e estruturar funcionalidades relacionadas à autorização usando uma abordagem orientada a domínio.
@@ -47,9 +46,6 @@ O Permettre suporta os seguintes modos de permissão:
 - **Não Autorizado:** Indica a falta de permissão para acessar um recurso ou ação.
 - **Leitura:** Permite a leitura de um recurso.
 - **Escrita:** Permite a modificação ou escrita em um recurso.
-
-## Licença
-O Permettre é lançado sob a [Licença MIT](LICENSE), o que significa que você pode usar, modificar e distribuir o código para fins educacionais e não comerciais. Consulte o arquivo `LICENSE` para obter mais detalhes.
 
 ---
 *Aviso: Este projeto é um exercício de aprendizado e não é adequado para uso em produção. Ele é projetado exclusivamente para fins educacionais, para demonstrar a aplicação dos princípios Tactical DDD em uma API simples de Autorização.*
